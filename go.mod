@@ -1,1 +1,1 @@
-module github.com/matlockx/go-mod-test
+module github.com/matlockx/gomodtest/v2
